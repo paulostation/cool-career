@@ -3,6 +3,5 @@ application:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: cool-career-toolchain
-  host: cool-career-toolchain
-  disk_quota: 1024M
+  name: cool-career
+  host: cool-career
