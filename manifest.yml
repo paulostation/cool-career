@@ -5,3 +5,4 @@ application:
   domain: mybluemix.net
   name: cool-career
   host: cool-career
+  disk_quota: 128M
